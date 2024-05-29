@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cris\\Projects\\First Person\\FirstPersonTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B31135-2E70-06B5-C4EF-95BFEC76E790}|Assembly-CSharp.csproj|c:\\users\\cris\\projects\\first person\\firstpersontest\\assets\\movemeent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B31135-2E70-06B5-C4EF-95BFEC76E790}|Assembly-CSharp.csproj|solutionrelative:assets\\movemeent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\cris\\projects\\first person\\firstpersontest\\assets\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "move.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\Projects\\First Person\\FirstPersonTest\\Assets\\move.cs",
+              "RelativeDocumentMoniker": "Assets\\move.cs",
+              "ToolTip": "C:\\Users\\Cris\\Projects\\First Person\\FirstPersonTest\\Assets\\move.cs",
+              "RelativeToolTip": "Assets\\move.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:50:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movemeent.cs",
+              "DocumentMoniker": "C:\\Users\\Cris\\Projects\\First Person\\FirstPersonTest\\Assets\\Movemeent.cs",
+              "RelativeDocumentMoniker": "Assets\\Movemeent.cs",
+              "ToolTip": "C:\\Users\\Cris\\Projects\\First Person\\FirstPersonTest\\Assets\\Movemeent.cs",
+              "RelativeToolTip": "Assets\\Movemeent.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwE4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:45:05.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
